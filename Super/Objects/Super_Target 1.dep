@@ -1,0 +1,71 @@
+Dependencies for Project 'Super', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.cpp)(0x5CE382B2)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\CMSIS\CM3\CoreSupport -I ..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc -I ..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\MDR32F9Qx_StdPeriph_Driver\inc -I ..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\MDR32F9Qx_StdPeriph_Driver\src-I.\RTE\Device\MDR1986BE91-I.\RTE\_Target_1-ID:\Programs\Delete\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Config-ID:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Libraries\CMSIS\CM3\CoreSupport-ID:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc-D__UVISION_VERSION="526" -D_RTE_ -DUSE_MDR32F9Q1_Rev1-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\Programs\Delete\ARM\ARMCC\include\stdio.h)(0x599EE94C)
+I (D:\Programs\Delete\ARM\ARMCC\include\iostream)(0x564D5C6C)
+I (D:\Programs\Delete\ARM\ARMCC\include\iosfwd)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_defs.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_config.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\config.h)(0x5310765C)
+I (D:\Programs\Delete\ARM\ARMCC\include\cwchar)(0x599EE94E)
+I (D:\Programs\Delete\ARM\ARMCC\include\wchar.h)(0x599EE94E)
+I (D:\Programs\Delete\ARM\ARMCC\include\istream)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\ostream)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\ios)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\streambuf)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_iosbase.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_locale.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\string)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\limits)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_math.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\cmath)(0x599EE94C)
+I (D:\Programs\Delete\ARM\ARMCC\include\math.h)(0x599EE94E)
+I (D:\Programs\Delete\ARM\ARMCC\include\cfloat)(0x599EE94C)
+I (D:\Programs\Delete\ARM\ARMCC\include\float.h)(0x599EE94C)
+I (D:\Programs\Delete\ARM\ARMCC\include\climits)(0x599EE94A)
+I (D:\Programs\Delete\ARM\ARMCC\include\limits.h)(0x599EE94A)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_algobase.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\utility)(0x4EB1C706)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_iterator.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_iterbase.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\cstddef)(0x599EE94E)
+I (D:\Programs\Delete\ARM\ARMCC\include\stddef.h)(0x599EE94C)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_strref.h)(0x564D5C6C)
+I (D:\Programs\Delete\ARM\ARMCC\include\memory)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\new)(0x599EE94E)
+I (D:\Programs\Delete\ARM\ARMCC\include\exception)(0x599EE94A)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_mutex.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\cstring)(0x599EE94E)
+I (D:\Programs\Delete\ARM\ARMCC\include\string.h)(0x599EE94C)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_traits.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\cstdio)(0x599EE94A)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_error.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_locimp.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_locvector.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\ctime)(0x599EE94E)
+I (D:\Programs\Delete\ARM\ARMCC\include\time.h)(0x599EE94E)
+I (D:\Programs\Delete\ARM\ARMCC\include\clocale)(0x599EE94C)
+I (D:\Programs\Delete\ARM\ARMCC\include\locale.h)(0x599EE94A)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_exception.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\cstdarg)(0x599EE94C)
+I (D:\Programs\Delete\ARM\ARMCC\include\stdarg.h)(0x599EE94A)
+I (D:\Programs\Delete\ARM\ARMCC\include\cstdlib)(0x599EE94A)
+I (D:\Programs\Delete\ARM\ARMCC\include\stdlib.h)(0x599EE94C)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_ctype.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_ioiter.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_numeric.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_punct.h)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\string.CC)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_punct.CC)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\rw\_numeric.CC)(0x564D5C6C)
+I (D:\Programs\Delete\ARM\ARMCC\include\ios.CC)(0x564D5C6E)
+I (D:\Programs\Delete\ARM\ARMCC\include\ostream.CC)(0x564D5C6E)
+F (RTE\Device\MDR1986BE91\startup_MDR32F9Qx.s)(0x5B063F9A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MDR1986BE91-I.\RTE\_Target_1-ID:\Programs\Delete\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Config-ID:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Libraries\CMSIS\CM3\CoreSupport-ID:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "USE_MDR32F9Q1_Rev1 SETA 1"--list .\listings\startup_mdr32f9qx.lst --xref -o .\objects\startup_mdr32f9qx.o --depend .\objects\startup_mdr32f9qx.d)
+F (RTE\Device\MDR1986BE91\system_MDR32F9Qx.c)(0x5B063FAA)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\CMSIS\CM3\CoreSupport -I ..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc -I ..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\MDR32F9Qx_StdPeriph_Driver\inc -I ..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\MDR32F9Qx_StdPeriph_Driver\src-I.\RTE\Device\MDR1986BE91-I.\RTE\_Target_1-ID:\Programs\Delete\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Config-ID:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Libraries\CMSIS\CM3\CoreSupport-ID:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc-D__UVISION_VERSION="526" -D_RTE_ -DUSE_MDR32F9Q1_Rev1-o .\objects\system_mdr32f9qx.o --omf_browse .\objects\system_mdr32f9qx.crf --depend .\objects\system_mdr32f9qx.d)
+I (..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x5B063F82)
+I (..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x5AF33588)
+I (D:\Programs\Delete\ARM\ARMCC\include\stdint.h)(0x599EE94E)
+I (..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\CMSIS\CM3\CoreSupport\core_cmInstr.h)(0x5AF33588)
+I (..\..\..\arm\PACK\Keil\MDR1986BExx\1.5\Libraries\CMSIS\CM3\CoreSupport\core_cmFunc.h)(0x5AF33588)
+I (.\RTE\Device\MDR1986BE91\system_MDR32F9Qx.h)(0x5B063FB6)
+I (D:\Programs\Delete\ARM\PACK\Keil\MDR1986BExx\1.51\Config\MDR32F9Qx_config.h)(0x5C53D4D0)
+F (RTE\Device\MDR1986BE91\system_MDR32F9Qx.h)(0x5B063FB6)()
